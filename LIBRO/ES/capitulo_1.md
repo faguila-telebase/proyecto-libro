@@ -1,0 +1,9 @@
+# Capítulo 1: El Horizonte de Sucesos — La Geometría de la Condena
+
+No hubo un juicio, ni una balanza, ni un tribunal de ángeles con espadas flamígeras. La entrada al Infierno fue, sencillamente, una cuestión de física. Usted lo supo en el momento en que la luz de las estrellas que dejaba a su espalda empezó a tornarse de un rojo violento, una herida sangrante en el tejido de la realidad que se desvanecía hacia el infrarrojo hasta desaparecer por completo.
+
+El Horizonte de Sucesos no es una puerta, es un límite matemático. Es el punto donde la velocidad de escape iguala a la velocidad de la luz, lo que en términos morales significa que la esperanza ha dejado de tener masa. Una vez cruzado ese umbral invisible, el espacio y el tiempo intercambian sus roles. Ya no se cae hacia un lugar, se cae hacia un "cuándo". Y ese "cuándo" es la Singularidad que aguarda en el centro, inevitable como el tic-tac de un reloj que marca el fin de los tiempos.
+
+Mira usted hacia atrás y no ve nada. El universo que conoció, con sus amores, sus traiciones y sus mediocres pecados de oficina, ha quedado sellado tras una membrana de negrura absoluta. No es que la luz no quiera entrar; es que el espacio mismo se curva con tal ferocidad que los fotones se quedan orbitando en una danza inútil, prisioneros de una gravedad que no conoce la clemencia. Usted es ahora una variable en una ecuación que solo tiene una solución posible: el colapso.
+
+En este primer círculo, el silencio no es la ausencia de sonido, sino el peso del vacío. Sus gritos no pueden viajar, porque no hay medio que los transporte y porque, de todos modos, no hay un "fuera" al que llegar. Aquí comprende la primera gran verdad de su nuevo estado: en el Cosmos de Dios, usted era un observador; en este Cosmos, usted es el combustible de una máquina de dolor perfectamente eficiente.
