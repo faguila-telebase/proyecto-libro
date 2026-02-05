@@ -8,3 +8,4 @@
 * **Singularity**: The point of infinite density at the center of a black hole. Where the laws of physics die and only the will of the abyss remains.
 * **Hawking Radiation**: Process by which a black hole loses mass. The ultimate wear of the soul.
 * **Entropy**: Measure of disorder. The force that strips the condemned of identity.
+* **Cauchy Horizon**: Boundary of predictability. The point where the soul loses the ability to understand its own punishment.
