@@ -6,3 +6,5 @@
 * **Quasar**: An active galactic nucleus. The thermal scream of a black hole feeding on matter; a hell that spits energy because it cannot contain all the pain it tries to swallow.
 * **Pulsar**: A rapidly rotating neutron star. The metronome of the void, a rhythmic reminder that time, though dilated, continues to mark the sentence.
 * **Singularity**: The point of infinite density at the center of a black hole. Where the laws of physics die and only the will of the abyss remains.
+* **Hawking Radiation**: Process by which a black hole loses mass. The ultimate wear of the soul.
+* **Entropy**: Measure of disorder. The force that strips the condemned of identity.
