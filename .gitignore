@@ -1,0 +1,3 @@
+cosmogonia.auth
+*.tmp
+mongodb_data/
