@@ -9,3 +9,5 @@
 * **Hawking Radiation**: Process by which a black hole loses mass. The ultimate wear of the soul.
 * **Entropy**: Measure of disorder. The force that strips the condemned of identity.
 * **Cauchy Horizon**: Boundary of predictability. The point where the soul loses the ability to understand its own punishment.
+* **Singularity**: Point of infinite curvature. Total annihilation.
+* **Zero Volume**: Paradoxical state where matter occupies no space.

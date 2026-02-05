@@ -12,3 +12,5 @@ Este glosario define los conceptos físicos utilizados para describir la arquite
 * **Relatividad General**: La teoría de Einstein que describe cómo la masa curva el espacio y el tiempo. En este libro, es la arquitectura jurídica del Cosmos.
 * **Espaguetización**: Efecto de marea extremo que estira los objetos hasta convertirlos en formas largas y delgadas. Es la deshumanización física absoluta.
 * **Efectos de Marea**: Diferencias de gravedad en distintas partes de un cuerpo que causan su deformación.
+* **Singularidad**: Punto donde la curvatura del espacio-tiempo es infinita. En este libro, representa el olvido total y la aniquilación del ser.
+* **Volumen Cero**: Estado paradójico donde la materia existe pero no ocupa espacio. La forma definitiva de confinamiento.
