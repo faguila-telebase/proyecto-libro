@@ -8,3 +8,5 @@ Este glosario define los conceptos físicos utilizados para describir la arquite
 * **Cuásar**: Un núcleo galáctico activo. Es el grito térmico de un agujero negro alimentándose de materia; un infierno que escupe energía porque no puede contener todo el dolor que intenta tragar.
 * **Púlsar**: Una estrella de neutrones que gira a gran velocidad. El metrónomo del vacío, un recordatorio rítmico de que el tiempo, aunque se dilate, sigue marcando la condena.
 * **Singularidad**: El punto de densidad infinita en el centro de un agujero negro. Donde las leyes de la física mueren y solo queda la voluntad del abismo.
+* **Dilatación Temporal**: Efecto de la relatividad donde el tiempo transcurre más lento bajo campos gravitatorios intensos. Aquí, es el mecanismo que convierte un segundo de culpa en una eternidad de conciencia.
+* **Relatividad General**: La teoría de Einstein que describe cómo la masa curva el espacio y el tiempo. En este libro, es la arquitectura jurídica del Cosmos.
