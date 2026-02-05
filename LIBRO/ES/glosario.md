@@ -10,3 +10,5 @@ Este glosario define los conceptos físicos utilizados para describir la arquite
 * **Singularidad**: El punto de densidad infinita en el centro de un agujero negro. Donde las leyes de la física mueren y solo queda la voluntad del abismo.
 * **Dilatación Temporal**: Efecto de la relatividad donde el tiempo transcurre más lento bajo campos gravitatorios intensos. Aquí, es el mecanismo que convierte un segundo de culpa en una eternidad de conciencia.
 * **Relatividad General**: La teoría de Einstein que describe cómo la masa curva el espacio y el tiempo. En este libro, es la arquitectura jurídica del Cosmos.
+* **Espaguetización**: Efecto de marea extremo que estira los objetos hasta convertirlos en formas largas y delgadas. Es la deshumanización física absoluta.
+* **Efectos de Marea**: Diferencias de gravedad en distintas partes de un cuerpo que causan su deformación.
