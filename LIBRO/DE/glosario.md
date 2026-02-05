@@ -1,1 +1,0 @@
-# Glossar der kosmogonischen Begriffe
